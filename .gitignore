@@ -4,5 +4,5 @@ migrations/
 .env
 db.sqlite3
 .idea/
-static/
-media/
+static
+media
